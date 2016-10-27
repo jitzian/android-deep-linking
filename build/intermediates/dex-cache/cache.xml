@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5a8e01742aee890c56fe638ea7c921b91a3fdc62">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_4d1488649139506ea3b5075461f4013861400693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_d1a7dbdb413b68e8de23c19015b7860e13fd4d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_0c0c6f024076a7e02c36587c4abf723e4396263d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0c0c19759e5868604a3b4c2c0074ee9404d73c76">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-21.0.0_2a32c5d867e1de6354500401521745e106c5af14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.0_d4d939c096a645b083b5823753e0be6adda7b7d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a43d61f560ce2ac6edf0dbc6959c7cc26a7f7736">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_241efa2bd75da9ba64dd9c3004f6fb14c8764055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/sqliteassethelper-2.0.1_6a1357d3b41e0c0b0bd93dc8d3fe6c53d84842d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7b788a2a9b4febd8c774313be2d970e66c4ddc9d">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c1c7cedc4f834016990809e510cb712a6e091ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/raian/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/www/androidWS/Deeplinking/search-samples-master/android-deep-linking/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_09e0105ba68a8bc97b8830ed59e917479bc30e80/classes.dex" />
+    </item>
+
+</items>
